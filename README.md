@@ -29,4 +29,6 @@ Projekt powstał na potrzeby warsztatu: "Nowoczesne programowanie w Delphi". Jes
 
 * [Dobre praktyki programisty](./GoodPractices.md)
 
-* [Konwencja nazw identyfikatorów](./NamingConvetion.md)
+* [Konwencja nazw identyfikatorów1](./NamingConvetion.md)
+
+### koniec
